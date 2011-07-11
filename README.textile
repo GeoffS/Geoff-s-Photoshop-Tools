@@ -1,0 +1,5 @@
+This repository contains a series of useful (or not...) sctipts, actions, and other
+tools that I've written for Photoshop (currently CS5).
+
+If you have any questions, comments, or want to contribute, drop me a message 
+at: geoff@geoff-s.net
